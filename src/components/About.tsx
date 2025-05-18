@@ -45,7 +45,7 @@ const About: React.FC = () => {
               <div className="md:col-span-1">
                 <div className="aspect-square overflow-hidden rounded-xl mb-4">
                   <img
-                    src="../Profile.jpg" 
+                    src="https://github.com/brobits1234546/portfolio/blob/main/Profile.jpg?raw=true" 
                     alt="Adonay Ayneabeba"
                     className="w-full h-full object-cover"
                   />
