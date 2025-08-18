@@ -164,7 +164,7 @@ const Contact: React.FC = () => {
                   <Github size={24} />
                 </a>
                 <a 
-                  href="https://youtube.com/adonay" 
+                  href="https://www.youtube.com/@VibeCode-Brobits" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="p-3 bg-gray-900 rounded-full text-gray-400 hover:text-white hover:bg-indigo-600 transition-colors"
