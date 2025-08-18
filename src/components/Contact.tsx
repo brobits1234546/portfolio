@@ -155,7 +155,7 @@ const Contact: React.FC = () => {
               <h3 className="text-xl font-semibold text-white mb-6">Connect With Me</h3>
               <div className="flex space-x-4">
                 <a 
-                  href="https://github.com/adonay" 
+                  href="https://github.com/brobits1234546" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="p-3 bg-gray-900 rounded-full text-gray-400 hover:text-white hover:bg-indigo-600 transition-colors"
