@@ -10,55 +10,55 @@ interface Skill {
 const skills: Skill[] = [
   { 
     name: 'HTML', 
-    level: 90, 
+   
     icon: '🌐', 
     category: 'frontend' 
   },
   { 
     name: 'CSS', 
-    level: 85, 
+  
     icon: '🎨', 
     category: 'frontend' 
   },
   { 
     name: 'JavaScript', 
-    level: 80, 
+    
     icon: '📜', 
     category: 'frontend' 
   },
   { 
     name: 'TypeScript', 
-    level: 75, 
+   
     icon: '📘', 
     category: 'frontend' 
   },
   { 
     name: 'Python', 
-    level: 85, 
+     
     icon: '🐍', 
     category: 'backend' 
   },
   { 
     name: 'Tailwind CSS', 
-    level: 90, 
+    
     icon: '💨', 
     category: 'frontend' 
   },
   { 
     name: 'Godot (GDScript)', 
-    level: 70, 
+   
     icon: '🎮', 
     category: 'other' 
   },
   { 
     name: 'Electron', 
-    level: 65, 
+ 
     icon: '⚛️', 
     category: 'tools' 
   },
   { 
     name: 'Vite', 
-    level: 80, 
+   
     icon: '⚡', 
     category: 'tools' 
   }
